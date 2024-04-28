@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">parcialPractice</string>
+    <string name="saludo_primer_fragmento">Primer Fragmento</string>
+    <string name="saludo_segundo_fragmento">Segundo Fragmento</string>
+    <string name="saludo_tercer_fragmento">Tercer Fragmento</string>
+    <string name="saludo_cuarto_fragmento">Cuarto Fragmento</string>
+    <string name="saludo_quinto_fragmento">QUINTO Fragmento</string>
+    <string name="saludo_sexto_fragmento">SEXT Fragmento</string>
+
+    <string name="item_tercer_fragmento">Fragmento 3</string>
+    <string name="item_cuarto_fragmento">Fragmento 4</string>
+    <string name="item_quinto_fragmento">Fragmento 5</string>
+    <string name="item_sexto_fragmento">Fragmento 6</string>
+
+
+    <string name="text_btn_enviar">ENVIAR A FRAMENTO 2</string>
+    <string name="text_indicacion_campo"> POR FAVOR ESCRIBE ALGO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

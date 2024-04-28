@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="AntiqueWhite">#FFF5EDDC</color>
+    <color name="LightGray">#FFCFD2CF</color>
+    <color name="LightCoral">#FFFA9494</color>
+    <color name="Wheat">#FFE6CCA9</color>
+    <color name="Salmon">#FFFF6D6D</color>
+    <color name="ChocalteShadow">#FF533535</color>
+    <color name="LightSkyBlue">#FFA2D2FF</color>
+    <color name="Aureolina">#FFFFE65D</color>
+    <color name="OldYellow">#FFFFF1A6</color>
+
+</resources>
