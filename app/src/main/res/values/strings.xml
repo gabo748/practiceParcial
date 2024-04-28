@@ -16,6 +16,10 @@
     <string name="text_btn_enviar">ENVIAR A FRAMENTO 2</string>
     <string name="text_indicacion_campo"> POR FAVOR ESCRIBE ALGO</string>
 
+    <string name="titulo_ufg">Universidad Francisco Gavidia</string>
+    <string name="texto_vertical">Este texto indica que la orientacion del telefono esta en posicion VERTICAL</string>
+    <string name="texto_horizontal">Este texto indica que la orientacion del telefono esta en posicion HORIZONTAL</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
